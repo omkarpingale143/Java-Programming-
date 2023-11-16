@@ -1,4 +1,6 @@
-public class logical 
+//Java Program to perform Logical Operator
+import java.io.*;
+public class Logical 
 {
   public static void main(String[] args) 
   {
