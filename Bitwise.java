@@ -1,5 +1,6 @@
-//Java Program to perform Arithmetic Operator
-import java.io.*;public class bitwise 
+//Java Program to perform Bitwise Operator
+import java.io.*;
+public class Bitwise 
 {
  public static void main(String[] args) 
   {
