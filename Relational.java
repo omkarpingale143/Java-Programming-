@@ -1,5 +1,9 @@
-class Main {
-  public static void main(String[] args) {
+//Java Program to perform Relational Operator
+import java.io.*;
+public class Relational 
+{
+  public static void main(String[] args) 
+  {
     
     // create variables
     int a = 7, b = 11;
