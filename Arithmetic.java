@@ -1,4 +1,4 @@
-public class arithmetic 
+public class rithmetic 
 {
   public static void main(String[] args) 
   {
