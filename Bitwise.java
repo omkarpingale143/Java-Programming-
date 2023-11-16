@@ -1,4 +1,5 @@
-public class bitwise 
+//Java Program to perform Arithmetic Operator
+import java.io.*;public class bitwise 
 {
  public static void main(String[] args) 
   {
