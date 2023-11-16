@@ -1,3 +1,9 @@
+/*3)Write a program to accept choice from the user and perform the operation
+	1.Find out greater between 3 NO
+	2.Check given no is even or odd
+	3.Checkk the given character is vowel or not
+	4.check the given no is divible by 5 or not*/
+
 import java.util.Scanner;
 public class UserChoiceOperations 
 {
