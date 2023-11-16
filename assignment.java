@@ -1,7 +1,7 @@
 //Java Program to perform Assignment Operator
 import java.io.*; 
   
-public class assignment
+public class Assignment
 { 
     public static void main(String[] args) 
     { 
